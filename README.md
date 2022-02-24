@@ -8,8 +8,8 @@
 
 ## Libs
 
-https://github.com/clojure/data.json  
-https://github.com/cgrand/enlive
+- https://github.com/clojure/data.json  
+- https://github.com/cgrand/enlive
 
 ## Refs
 
@@ -84,7 +84,7 @@ https://github.com/cgrand/enlive
 - Reduce* (n->A)
 
 - [https://purelyfunctional.tv/courses/3-functional-tools/](https://purelyfunctional.tv/courses/3-functional-tools/)
-- [GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen]([https://www.youtube.com/watch?v=0if71HOyVjY](https://www.youtube.com/watch?v=0if71HOyVjY))
+- [GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
 
 ---
 
